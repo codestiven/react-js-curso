@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Curso de React.js en Udemy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React.js - Aprende a Crear Aplicaciones en Tiempo Récord
 
-## Available Scripts
+**Enlace del Curso:** [React.js - Aprende a Crear Aplicaciones](https://www.udemy.com/course/react-js-curso/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### Requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Tener una base aceptable de programación con Javascript ES6.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+### Descripción del Curso
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Tras varios años impartiendo este curso de manera presencial, he condensado los conocimientos esenciales para que puedas desarrollar tus propias aplicaciones con React.js. En tan solo una hora y media, adquirirás los fundamentos necesarios para comenzar a crear Single Page Applications utilizando esta poderosa librería de Facebook.
 
-### `npm run build`
+Este curso se presenta de manera concisa y clara, diseñado para aquellos que ya poseen una buena base en Javascript. No necesitarás detenerte constantemente para tomar notas, ya que las explicaciones fluyen de manera fluida.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Los contenidos abordados son los fundamentos universales de React, presentados con consejos y tips para adoptar las mejores prácticas de programación en React.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Utilizaremos hooks en lugar de la programación orientada a objetos, siguiendo la recomendación de Facebook. Esta aproximación resulta más eficiente y sencilla, facilitando el aprendizaje sin sacrificar la profundidad del conocimiento.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para seguir el curso, se recomienda el uso del editor de código Visual Studio Code, que se adapta perfectamente a nuestras necesidades y es de uso gratuito.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Contenidos del Curso
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Crear nuevo proyecto
+2. JSX
+3. useRef
+4. useState
+5. Componentes
+6. Props
+7. Renderizado condicional
+8. Cargar una imagen
+9. Estilos
+10. Styled Components
+11. React Router
+12. Axios
+13. Context API
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Instructor
 
-## Learn More
+**Pablo Monteserín**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Calificación del Instructor: 4.2
+- 761 reseñas
+- 23,865 estudiantes
+- 3 cursos
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Con más de 9 años de experiencia dando clases de informática y un historial que incluye programación en Java para el BBVA, así como una experiencia laboral en Japón. Ha impartido una amplia variedad de cursos, desde ofimática hasta tecnologías web como HTML5, CSS3, y Javascript.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Detalles Adicionales del Curso
 
-### Analyzing the Bundle Size
+- **Calificación del Curso:** 4.3 de 5
+- **Número de Estudiantes:** 20,000
+- **Duración:** 1 hora 33 minutos de vídeo bajo demanda
+- **Idioma:** Español
+- **Creado por:** Pablo Monteserín
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Aprende React.js de manera rápida y eficiente con este curso en Udemy! Siéntete libre de explorar el curso y mejorar tus habilidades en el desarrollo de aplicaciones web con React. ¡Buena suerte en tu aprendizaje!
