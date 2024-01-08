@@ -1,14 +1,24 @@
 import React from 'react';
 
+// aqui aprendi a exportar mas de un componente que este en el mismo archivo
 
 
-
-const Mycomponent = () => {
+const Mycomponent = (props) => {
     return (
         <div>
-            <h1>My component</h1>
+            <h1>My {props.name}</h1>
         </div>
     )
 }
 
-export default Mycomponent;
+
+const Hijo = (props) => {
+  return (
+    <div>
+      <h1>My {props.children}</h1>
+    </div>
+  );
+};
+
+export { Mycomponent, Hijo };
+
