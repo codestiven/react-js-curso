@@ -6,6 +6,8 @@ import { Mycomponent, Hijo } from "./components/mycomponents";
 import { RenderizadoCondicional } from './components/mycomponents/Renderizado condicional';
 import Imgg from './components/img';
 import Estilo from './components/style';
+import { Coco, Condiciones, Cuadrado, Input } from './styled-components/style';
+
 
 
 
@@ -18,6 +20,10 @@ function App() {
       <Estilo />
       <Hijo> coca colaeeeeeeea </Hijo>
       <RenderizadoCondicional />
+      <Cuadrado ></Cuadrado>
+      <Condiciones active={false} />
+      <Input placeholder="hola" maaxLenght="10" />
+<Coco/>
       <Imgg />
     </div>
   );
