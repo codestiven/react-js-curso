@@ -5,6 +5,7 @@ import UseState from './components/UseState';
 import { Mycomponent, Hijo } from "./components/mycomponents";
 import { RenderizadoCondicional } from './components/mycomponents/Renderizado condicional';
 import Imgg from './components/img';
+import Estilo from './components/style';
 
 
 
@@ -14,6 +15,7 @@ function App() {
       <UsingRefComponent />
       <UseState />
       <Mycomponent name="components cola  " />
+      <Estilo />
       <Hijo> coca colaeeeeeeea </Hijo>
       <RenderizadoCondicional />
       <Imgg />
