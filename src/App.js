@@ -7,6 +7,7 @@ import { RenderizadoCondicional } from './components/mycomponents/Renderizado co
 import Imgg from './components/img';
 import Estilo from './components/style';
 import { Coco, Condiciones, Cuadrado, Input } from './styled-components/style';
+import { Fetch } from './components/fetch';
 
 
 
@@ -14,6 +15,8 @@ import { Coco, Condiciones, Cuadrado, Input } from './styled-components/style';
 function App() {
   return (
     <div className="App">
+
+      <Fetch />
       <UsingRefComponent />
       <UseState />
       <Mycomponent name="components cola  " />
